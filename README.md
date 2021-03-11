@@ -1,5 +1,4 @@
-# KCCRI
-Karabiner Custom Complex Rule Importer
+# Karabiner Custom Complex Rule Importer
 
 
 ## Importing a custom complex rule
